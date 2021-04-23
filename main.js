@@ -1,7 +1,7 @@
 import socksProxyAgentPkg from 'socks-proxy-agent'
-import { Telegraf } from 'telegraf'
+import {Telegraf} from 'telegraf'
 
-const { SocksProxyAgent } = socksProxyAgentPkg
+const {SocksProxyAgent} = socksProxyAgentPkg
 
 /**
  * Created on 1400/1/30 (2021/4/19).
